@@ -12,6 +12,13 @@ I've been learning to code for 5 years, after switching careers. I started with 
 *   🚀  I'm currently working on [MyApp](http://someapp.com)
 *   🧠  I'm learning NextJS15, C++ & Game Development
 *   🤝  I'm open to collaborating on Interesting projects
+*   ⚡ My LinkedIn is <a href="https://www.linkedin.com/in/stephaniie" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a>
 
 ### Languages 
 <p align="left">
